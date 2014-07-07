@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="ethernick.xsl"?>
+<html>
+
+<head>
+<title>Nick Kempinski's Experimental Playground</title>
+<meta name="google-site-verification" content="DTXlvy9S9Rm6Q5aVhVRdOFlA_r3z07dfARITD1U651M" />
+</head>
+
+<body>
+
+<h1>This is not the website you actually see.</h1>
+<p>By using a little xml ingenuity, I can override the html. What I am really curious about, it how does google see this site? Does it
+parse the two files together to register the real outcome or does it simply look at the one file?</p>
+<p>In the future of web development, and the increase in HTML5 client side parsing, how will search engines adapt? Will they need
+to be the gatekeepers of this data, or should there be other mechanisms?</p>
+<p>This website is not the website you are looking at, and unless you click view source, you may never really know what lies beneath</p>
+<h3>Find me Around the web</h3>
+<ul>
+	<li><a href="http://whoisnick.com/">My Blog</a></li>
+	<li><a href="http://www.linkedin.com/in/nkempinski">Resume / CV</a></li>
+	<li><a href="https://twitter.com/ethernick">@ethernick on Twitter</a></li>
+	<li><a href="https://www.facebook.com/nkempinski">Facebook</a></li>
+	<li><a href="https://alpha.app.net/ethernick">@ethernick on App.net</a></li>
+	<li><a href="https://plus.google.com/+NickKempinski">Google+</a></li>
+	<li><a href="http://ethernick.postach.io/">Notebook in Progress</a></li>
+	<li><a href="https://soundcloud.com/ethernick">Audio Wonderment</a></li>
+	<li><a href="https://medium.com/@ethernick">On Medium</a></li>
+	<li><a href="https://ethernick.svbtle.com/">Svbtle</a></li>
+</ul>
+</body>
+
+</html>

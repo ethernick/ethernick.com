@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="ethernick.xsl"?>
+
+<rss xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:aether="http://www.ethernick.com"
+	version="2.0">
+
+<channel>
+	<title>Updates from Nick</title>
+
+	<link>http://www.ethernick.com/news.xml</link>
+	<description>PR style updates - I can't help it, I'm a communications major</description>
+	<lastBuildDate>Thurs, 15 July 2010</lastBuildDate>
+	<generator>http://www.ethernick.com/</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+
+	<item>
+		<title>Ethernick.com updated</title>
+		<pubDate>Sun, 6 July 2014</pubDate>
+		<author>Nick Kempinski</author>
+
+		<guid isPermaLink="false">201407061</guid>
+		<link>http://www.ethernick.com/</link>
+		<category>ethernick</category>
+		<category>portfolio</category>
+ 		<aether:summary>
+		</aether:summary>
+		<description><![CDATA[
+			<p>This site has been updated to be a complete and flexible
+			experimental playground. Under the hood it's put together with bower,
+			bootstrap, and various other libraries. Additionally I'm playing with a
+			few jquery libraries &amp; a bit of olde school XML.</p>
+		]]></description>
+	</item>
+
+
+	<item>
+		<title>SoundCloud Radio</title>
+		<pubDate>Sun, 06 July 2014</pubDate>
+		<author>Nick Kempinski</author>
+
+		<guid isPermaLink="false">201407062</guid>
+		<link>http://www.ethernick.com/radio</link>
+		<category>radio</category>
+		<category>experiment</category>
+		<description><![CDATA[
+			<p>I'm toying around with the soundcloud SDK and putting out there a currated
+				listening experience. It's not "live" but it is handpicked. You'll hear
+				the same songs as others who listen, only it's your own order. Mixing
+				radio's high, medium, low rotation with indavidual order.</p>
+		]]></description>
+	</item>
+
+</channel>
+
+</rss>
