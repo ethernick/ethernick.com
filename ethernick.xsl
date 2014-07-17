@@ -11,10 +11,10 @@
 	<title>Nick Kempinski's Portfolio</title>
 	<meta name="author" content="Nick Kempinski" />
 	<meta name="viewport" content="width=device-width, height=device-height" />
-	<link href="components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
-	<link href="components/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
-	<link href="assets/css/jumbotron-narrow.css" rel="stylesheet" />
-	<link href="assets/css/ethernick.css" rel="stylesheet" />
+	<link href="/components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="/components/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+	<link href="/assets/css/jumbotron-narrow.css" rel="stylesheet" />
+	<link href="/assets/css/ethernick.css" rel="stylesheet" />
 	<link title="Nick Kempinski - News" type="application/rss+xml" rel="alternate" href="http://www.ethernick.com/pr.xml"/>
 	<link rel="shortcut icon" href="assets/img/favicon.png" />
 	</head>

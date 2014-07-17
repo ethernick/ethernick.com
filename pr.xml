@@ -17,6 +17,24 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 
 	<item>
+		<title>Prismatic to IFTTT</title>
+		<pubDate>Thurs, 17 July 2014</pubDate>
+		<author>Nick Kempinski</author>
+
+		<guid isPermaLink="false">201407171</guid>
+		<link>https://gist.github.com/ethernick/5726438</link>
+		<category>ethernick</category>
+		<category>portfolio</category>
+		<aether:summary>
+		</aether:summary>
+		<description><![CDATA[
+			<p>A small script that converts their
+				<a href="http://getprismatic.com/">prismatic</a> likes into RSS. Handy 
+				for things like IFTTT.</p>
+		]]></description>
+	</item>
+
+	<item>
 		<title>Ethernick.com updated</title>
 		<pubDate>Sun, 6 July 2014</pubDate>
 		<author>Nick Kempinski</author>
