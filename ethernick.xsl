@@ -10,6 +10,7 @@
 	<head>
 	<title>Nick Kempinski's Portfolio</title>
 	<meta name="author" content="Nick Kempinski" />
+	<meta name="description" content="These are experiments by Nick Kempinski. Focusing on SVG and XML markup to see what can be done." />
 	<meta name="viewport" content="width=device-width, height=device-height" />
 	<link href="/components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
 	<link href="/components/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
@@ -67,19 +68,19 @@
 
   <div class="jumbotron">
 		<div class="container">
-		<svg id="logo" width="90%" height="40%" class="locked" preserveAspectRatio="xMinYMin meet">
-		   <line x1="15%" y1="0" x2="15%" y2="100%" class="line" />
-		   <line x1="15%" y1="0" x2="50%" y2="100%" class="line" />
-		   <line x1="50%" y1="0" x2="50%" y2="100%" class="line" />
-		   <line x1="50%" y1="50%" x2="85%" y2="0%" class="line" />
-		   <line x1="50%" y1="50%" x2="85%" y2="100%" class="line" />
-		</svg>
-		<h1>Nick Kempinski</h1>
-    <p class="lead">I believe every aspect of our lives sends a message and it's up to us to choose whether we follow it, interpret it, or design it.</p>
-    <div class="refresh hidden-xs">
-       <i class="fa fa-info-circle"></i> try arrow left, right
-    </div>
-	</div>
+			<svg id="logo" width="90%" height="40%" class="locked" preserveAspectRatio="xMinYMin meet">
+			   <line x1="15%" y1="0" x2="15%" y2="100%" class="line" />
+			   <line x1="15%" y1="0" x2="50%" y2="100%" class="line" />
+			   <line x1="50%" y1="0" x2="50%" y2="100%" class="line" />
+			   <line x1="50%" y1="50%" x2="85%" y2="0%" class="line" />
+			   <line x1="50%" y1="50%" x2="85%" y2="100%" class="line" />
+			</svg>
+			<h1>Nick Kempinski</h1>
+	    <p class="lead">I believe every aspect of our lives sends a message and it's up to us to choose whether we follow it, interpret it, or design it.</p>
+	    <div class="refresh hidden-xs">
+	       <i class="fa fa-info-circle"></i> try arrow left, right
+	    </div>
+		</div>
   </div>
 
 	<div class="container">

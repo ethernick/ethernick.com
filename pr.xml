@@ -17,37 +17,35 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 
 	<item>
-		<title>Prismatic to IFTTT</title>
-		<pubDate>Thurs, 17 July 2014</pubDate>
+		<title>Working with Ticket Rocket</title>
+		<pubDate>Sun, 28 May 2017</pubDate>
 		<author>Nick Kempinski</author>
 
-		<guid isPermaLink="false">201407171</guid>
-		<link>https://gist.github.com/ethernick/5726438</link>
+		<guid isPermaLink="false">201705282</guid>
+		<link>http://www.ticketrocket.co</link>
 		<category>ethernick</category>
 		<category>portfolio</category>
 		<aether:summary>
 		</aether:summary>
 		<description><![CDATA[
-			<p>A small script that converts their
-				<a href="http://getprismatic.com/">prismatic</a> likes into RSS. Handy 
-				for things like IFTTT.</p>
+			<p>Currently I'm working with <a href="http://www.ticketrocket.co">Ticket Rocket</a>.
+			A small start up in Victoria, BC. Trying to be good guys in event ticketing.</p>
 		]]></description>
 	</item>
 
 	<item>
-		<title>Ethernick.com updated</title>
-		<pubDate>Sun, 6 July 2014</pubDate>
+		<title>This site</title>
+		<pubDate>Sun, 28 May 2017</pubDate>
 		<author>Nick Kempinski</author>
 
-		<guid isPermaLink="false">201407061</guid>
+		<guid isPermaLink="false">201705281</guid>
 		<link>http://www.ethernick.com/</link>
 		<category>ethernick</category>
 		<category>portfolio</category>
  		<aether:summary>
 		</aether:summary>
 		<description><![CDATA[
-			<p>This site has been updated to be a complete and flexible
-			experimental playground. Under the hood it's put together with bower,
+			<p>Under the hood this site is put together with bower,
 			bootstrap, and various other libraries. Additionally I'm playing with a
 			few jquery libraries &amp; a bit of olde school XML.</p>
 		]]></description>
@@ -55,8 +53,8 @@
 
 
 	<item>
-		<title>SoundCloud Radio</title>
-		<pubDate>Sun, 06 July 2014</pubDate>
+		<title>Outside of work</title>
+		<pubDate>Sun, 28 May 2017</pubDate>
 		<author>Nick Kempinski</author>
 
 		<guid isPermaLink="false">201407062</guid>
@@ -64,10 +62,10 @@
 		<category>radio</category>
 		<category>experiment</category>
 		<description><![CDATA[
-			<p>I'm toying around with the soundcloud SDK and putting out there a currated
-				listening experience. It's not "live" but it is handpicked. You'll hear
-				the same songs as others who listen, only it's your own order. Mixing
-				radio's high, medium, low rotation with indavidual order.</p>
+			<p>When I'm not working, I'm discovering. New Beer, new music, new tech.
+				I tinker and toy with anything media related. I struggle to write more.</p>
+			<p>The older I get, the more my ludite tendencies show. Oh... I get it. I
+				just sometimes refuse to acknowledge it.</p>
 		]]></description>
 	</item>
 

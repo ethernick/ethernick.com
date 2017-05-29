@@ -50,5 +50,9 @@ function girlify() {
 		$(".minitron a").css("color", opp);
 		$(".refresh").css("color",font);
 		$(".jumbotron").css("color",opp);
-		$(".line").css("stroke",opp);
+		$(".line:eq(0)").css("stroke",$.xcolor.darken(bg,2));
+		$(".line:eq(1)").css("stroke",opp);
+		$(".line:eq(2)").css("stroke",$.xcolor.darken(bg,3));
+		$(".line:eq(3)").css("stroke",$.xcolor.lighten(bg,1));
+		$(".line:eq(4)").css("stroke",$.xcolor.lighten(bg,4));
 }
