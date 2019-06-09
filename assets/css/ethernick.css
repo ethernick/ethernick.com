@@ -21,6 +21,9 @@ body {
 	transition: all 700ms;
 	border-radius: 0 !important;
 }
+.jumbotron.mini {
+	height: 250px !important;
+}
 .jumbotron p.lead {
 	margin-top: 25px;
 	margin-bottom: 0px !important;
@@ -30,8 +33,23 @@ body {
 	bottom: 5px;
 	right: 10px;
 }
-svg#logo {
+.jumbotron svg#logo {
 	min-height: 300px;
+}
+.jumbotron.mini svg#logo {
+	min-height: 50px;
+}
+small {
+	color: rgba(0,0,0,0.3);
+}
+hr {
+	width: 50%;
+}
+.item:last-of-type {
+	margin-bottom: 3em;
+}
+.item:last-of-type hr {
+	display:none;
 }
 
 @media screen and (max-width: 500px) {

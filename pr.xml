@@ -8,9 +8,9 @@
 <channel>
 	<title>Updates from Nick</title>
 
-	<link>http://www.ethernick.com/news.xml</link>
+	<link>http://www.ethernick.com/pr.xml</link>
 	<description>PR style updates - I can't help it, I'm a communications major</description>
-	<lastBuildDate>Thurs, 15 July 2010</lastBuildDate>
+	<lastBuildDate>Fri, 7 June 2019</lastBuildDate>
 	<generator>http://www.ethernick.com/</generator>
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -58,14 +58,52 @@
 		<author>Nick Kempinski</author>
 
 		<guid isPermaLink="false">201407062</guid>
-		<link>http://www.ethernick.com/radio</link>
-		<category>radio</category>
+		<link>http://a.ethernick.com/</link>
+		<category>blog</category>
 		<category>experiment</category>
 		<description><![CDATA[
-			<p>When I'm not working, I'm discovering. New Beer, new music, new tech.
-				I tinker and toy with anything media related. I struggle to write more.</p>
+			<p>When I'm not working, <a href="http://whoisnick.com">I'm discovering</a>. New Beer, new music, new tech.
+				I tinker and toy with <a href="http://a.ethernick.com">anything media related</a>.
+				Find out <a href="/pr.xml">more</a>.</p>
 			<p>The older I get, the more my ludite tendencies show. Oh... I get it. I
 				just sometimes refuse to acknowledge it.</p>
+		]]></description>
+	</item>
+
+	<item>
+		<title>Launching Orality.ca</title>
+		<pubDate>Sun, 26 May 2019</pubDate>
+		<author>Nick Kempinski</author>
+
+		<guid isPermaLink="false">201905261</guid>
+		<link>https://orality.ca</link>
+		<category>ethernick</category>
+		<category>blog</category>
+		<category>new</category>
+		<aether:summary>
+		</aether:summary>
+		<description><![CDATA[
+			<p>Today's society is skimming over the real influence of media is having. To explore deeper
+			and to put into context, I have started  a new blog, <a href="https://orality.ca">Orality</a>.</p>
+		]]></description>
+	</item>
+
+	<item>
+		<title>Starting a newsletter</title>
+		<pubDate>Fri, 7 June 2019</pubDate>
+		<author>Nick Kempinski</author>
+
+		<guid isPermaLink="false">201906071</guid>
+		<link>http://mail.ethernick.com/subscription?f=CXaDDkT7pBroO08Gic9aQcHGgNMzJTEB8vhq1Uhzmj69W763OxxhRZTKMFfEtyRxd8926hdHvu8v4L4MTtojSrOsmA</link>
+		<category>ethernick</category>
+		<category>newsleter</category>
+		<category>new</category>
+		<aether:summary>
+		</aether:summary>
+		<description><![CDATA[
+			<p>I tell everyone that email should not be overlooked. And here I am, knowing this 
+			and doing nothing about it. Come on in - 
+			<a href="http://mail.ethernick.com/subscription?f=CXaDDkT7pBroO08Gic9aQcHGgNMzJTEB8vhq1Uhzmj69W763OxxhRZTKMFfEtyRxd8926hdHvu8v4L4MTtojSrOsmA">sign up</a>.</p>
 		]]></description>
 	</item>
 
