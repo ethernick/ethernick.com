@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<xsl:stylesheet version="1.0"
+<xsl:stylesheet version="1.1"
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:aether="http://www.ethernick.com">
-<xsl:output method="HTML" doctype-system="" indent="yes" />
+
+<xsl:output method="html" version="5.0" encoding="UTF-8" indent="yes" />
 
 <xsl:template match="/">
 	<html>
@@ -55,6 +56,10 @@
 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
+
+	  if(navigator.userAgent.toLowerCase().indexOf('firefox') > -1){
+		$("body").prepend("<div class='alert alert-warning' role='alert'><i class='fa fa-info-circle'></i> This is an experiment best seen in Google Chrome</div>");
+	  }
 
 	]]>
 

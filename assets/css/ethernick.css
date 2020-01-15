@@ -39,6 +39,10 @@ body {
 .jumbotron.mini svg#logo {
 	min-height: 50px;
 }
+.alert {
+	margin-bottom: 0px;
+	text-align: center;
+}
 small {
 	color: rgba(0,0,0,0.3);
 }
